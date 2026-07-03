@@ -55,3 +55,9 @@ pip install -r requirements.txt
 4. Run the notebook
 
 Open the Jupyter Notebook and run all cells in order.
+
+--- 
+
+Author: Alyssa I
+
+--- 
